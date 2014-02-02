@@ -1,12 +1,12 @@
 Summary:	open-terminal extension for Caja (MATE file manager)
 Summary(pl.UTF-8):	Rozszerzenie open-terminal dla zarządcy plików Caja ze środowiska MATE
 Name:		mate-file-manager-extension-open-terminal
-Version:	1.6.0
+Version:	1.6.1
 Release:	1
 License:	GPL v2+
 Group:		X11/Applications
 Source0:	http://pub.mate-desktop.org/releases/1.6/mate-file-manager-open-terminal-%{version}.tar.xz
-# Source0-md5:	630effed402ff64a270d7062212615d2
+# Source0-md5:	b8b47cd5c167b4d092e7e90660bf9001
 URL:		http://mate-desktop.org/
 BuildRequires:	autoconf >= 2.53
 BuildRequires:	automake >= 1:1.9
